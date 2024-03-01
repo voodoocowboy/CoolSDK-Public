@@ -1,2 +1,2 @@
-# CoolSDK-Private
-This is the repository where the team will develop features not available to the public
+# CoolSDK-Public
+This is the repository where the team will develop features available to the public
